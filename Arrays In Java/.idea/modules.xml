@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays In Java.iml" filepath="$PROJECT_DIR$/Arrays In Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/ChatGPTArray.iml" filepath="$PROJECT_DIR$/untitled/ChatGPTArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoDArrays/TwoDArrays.iml" filepath="$PROJECT_DIR$/TwoDArrays/TwoDArrays.iml" />
     </modules>
   </component>
